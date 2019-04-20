@@ -8,4 +8,4 @@
  * Motores paso a paso: Nema 17
  * Estructura similar a impresoras 3D
  
- 
+[!picture]res.jpg
